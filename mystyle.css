@@ -1,1 +1,3 @@
 background-image : url(".jpg");
+div { background-image : url('divbgimg.gif');
+      padding : 5px; }
