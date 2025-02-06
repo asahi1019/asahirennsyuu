@@ -1,3 +1,5 @@
+body{
 background-image : url("kadai.jpg");
 div { background-image : url('divbgimg.gif');
       padding : 5px; }
+}
